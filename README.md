@@ -6,7 +6,5 @@ My Online Shopping Store
 - Flask
 - Mongodb
 
-# display project description
-# package dependencies
-# installation or usage.
+
 
